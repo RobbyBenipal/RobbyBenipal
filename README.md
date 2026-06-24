@@ -6,13 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-By day, I develop enterprise applications using .NET and SQL Server.  
-By night, I experiment with iOS apps, AI-powered tools, and new product ideas.
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
@@ -32,22 +25,6 @@ By night, I experiment with iOS apps, AI-powered tools, and new product ideas.
 **Currently Exploring**
 - SwiftUI (iOS Development)
 - AI & Automation
-
----
-
-## 🚀 What I'm Working On
-
-- 📱 iOS app with Firebase integration (reminders, analytics, and cloud sync)
-- 🤖 AI-driven tools and automation ideas
-- 🏗️ Improving and scaling internal enterprise applications
-
----
-
-## 📈 Goals
-
-- Build and launch production-ready apps outside of work  
-- Grow into a system design / architect-level engineer  
-- Combine software + product thinking to create impactful tools  
 
 ---
 
